@@ -1,0 +1,15 @@
+D:\_private_projekte\testapp\testapp\obj\Debug\testapp.csproj.CoreCompileInputs.cache
+D:\_private_projekte\testapp\testapp\bin\Debug\testapp.dll
+D:\_private_projekte\testapp\testapp\bin\Debug\testapp.pdb
+D:\_private_projekte\testapp\testapp\bin\Debug\testapp.testapp.apk
+D:\_private_projekte\testapp\testapp\bin\Debug\testapp.testapp-Signed.apk
+D:\_private_projekte\testapp\testapp\obj\Debug\testapp.dll
+D:\_private_projekte\testapp\testapp\obj\Debug\testapp.pdb
+D:\_private_projekte\testapp\testapp\obj\Debug\android\bin\testapp.testapp.apk
+D:\_private_projekte\testapp\testapp\obj\Debug\res\layout\main.xml
+D:\_private_projekte\testapp\testapp\obj\Debug\res\values\strings.xml
+D:\_private_projekte\testapp\testapp\obj\Debug\res\values\ids.xml
+D:\_private_projekte\testapp\testapp\obj\Debug\R.cs.flag
+D:\_private_projekte\testapp\testapp\obj\Debug\uploadflags.txt
+D:\_private_projekte\testapp\testapp\bin\Debug\testapp.dll.mdb
+D:\_private_projekte\testapp\testapp\obj\Debug\android\assets\testapp.dll.mdb
