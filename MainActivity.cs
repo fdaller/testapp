@@ -17,7 +17,7 @@ namespace testapp
             SetContentView(Resource.Layout.Main);
 
             Button button1 = FindViewById<Button>(Resource.Id.button1);
- 
+            this.Window.SetSoftInputMode(Android.Views.SoftInput.StateAlwaysHidden);
 
             for (int i = 0; i < 2; i++)                 // Mindestspielerzahl sind 2 Spieler
             {
@@ -47,8 +47,8 @@ namespace testapp
             // ET.Focusable = false;
             //ET.FocusableInTouchMode = false;
             //this.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
-
             LinearLayout TestLayout = (LinearLayout)FindViewById(Resource.Id.TestTest);
+
             TestLayout.AddView(ET, 0);
 
         }
