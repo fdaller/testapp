@@ -13,4 +13,3 @@ D:\_private_projekte\testapp\testapp\obj\Debug\R.cs.flag
 D:\_private_projekte\testapp\testapp\obj\Debug\uploadflags.txt
 D:\_private_projekte\testapp\testapp\bin\Debug\testapp.dll.mdb
 D:\_private_projekte\testapp\testapp\obj\Debug\android\assets\testapp.dll.mdb
-D:\_private_projekte\testapp\testapp\obj\Debug\testapp.csprojResolveAssemblyReference.cache

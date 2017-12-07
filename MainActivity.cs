@@ -3,6 +3,7 @@ using Android.Widget;
 using Android.OS;
 using static Android.App.ActionBar;
 using Android.Graphics;
+using System;
 
 namespace testapp
 {
@@ -39,7 +40,7 @@ namespace testapp
             testParams.SetMargins(20, 20, 20, 20);
             ET.SetPadding(20, 20, 20, 20);
             ET.SetTextSize(Android.Util.ComplexUnitType.Dip, 25);
-            ET.SetText(Resource.String.app_name);
+            ET.SetText(Resource.String.app_name);  
             testParams.Gravity = Android.Views.GravityFlags.CenterHorizontal;
             ET.LayoutParameters = testParams;
             ET.SetMaxLines(1);
@@ -47,9 +48,9 @@ namespace testapp
             // ET.Focusable = false;
             //ET.FocusableInTouchMode = false;
             //this.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
-            LinearLayout TestLayout = (LinearLayout)FindViewById(Resource.Id.TestTest);
+            LinearLayout TestLayout = (LinearLayout)FindViewById(Resource.Id.LayoutEditText);
 
-            TestLayout.AddView(ET, 0);
+            TestLayout.AddView(ET);
 
         }
     }
